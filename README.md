@@ -12,6 +12,6 @@ This analysis intends to find the answers to the following questions:
 
 Technologies used: Python, Pandas, Matplotlib, Seaborn, SciPy.
 
-<a href="https://github.com/Mlindens/LEGO_Analysis/blob/main/LEGO%20Analysis.ipynb" title="Here">Analysis documentation</a>
+<a href="https://github.com/Mlindens/LEGO_Analysis/blob/main/LEGO%20Analysis.ipynb" title="Analysis">Link to Analysis</a>
 
 Dataset source: Brickset
